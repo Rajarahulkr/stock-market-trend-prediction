@@ -1,0 +1,59 @@
+Predicting Stock Market Trends Using Machine Learning and Deep Learning Algorithms Via Continuous and Binary Data; a Comparative Analysis
+
+IEEE Access,Volume:8,Date of Publication:12.August.2020
+
+Stock market, trends prediction, classication, machine learning, deep learning.
+
+Predicting_Stock_MarketTrends
+
+
+predicting_stock_markettrends
+
+
+Company Category
+
+petroleum,diversied nancials,basic metals and non-metallic minerals,Software,Hardware
+
+
+Stock Market Trends --Uptrends,Downtrends,Sidewaystrends/HorizontalTrends
+
+
+Volume -- it is setting for identify whether stock is increasing or decreasing
+
+move upwards,move downwards
+
+Stock by -- NSE
+
+
+Company_Name
+Company_Category
+Opening_Price
+Date_Of_Opening
+Closing_Price
+Date_Of_Closing
+volume
+Profit
+prices_drop
+Stock_Market_Trends
+Stock_Exchange_By
+
+
+
+names
+Company_Category
+Opening_Price
+Date_Of_Opening
+Closing_Price
+Date_Of_Closing
+volume
+Profit
+prices_drop
+Stock_Market_Trends
+Stock_Exchange_By
+
+
+
+
+stock_Market_model,predicting_stock_markettrends_model
+
+
